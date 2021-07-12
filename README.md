@@ -57,3 +57,5 @@ This project is under the MIT license. See the [LICENSE](https://github.com/raaf
 Made with ♥ by Rafaella Coelho :wave: [Get in touch!](https://www.linkedin.com/in/rafaella-coelho/)
 
 [vscode]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
