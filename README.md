@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img alt="GoBarber API" src="https://res.cloudinary.com/raafacoelho/image/upload/v1626118580/FrontWeek_ivi7ww.png" />
+    <img alt="GoBarber API" src="https://res.cloudinary.com/raafacoelho/image/upload/c_scale,w_350/v1626118580/FrontWeek_ivi7ww.png" />
     <br>
-    Banco Inter's Internet Banking Redesign
+    Rafaella Coelho portfolio  - FrontWeek
 </h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
 </p>
 
 <h4 align="center">
-  Esse é um projeto criado durante a semana FrontWeek criada pelo <a href="https://www.linkedin.com/in/násser-yousef-ali-1742101a5/">Násser Yousef</a>.
+  This is a project created during the FrontWeek designed by <a href="https://www.linkedin.com/in/násser-yousef-ali-1742101a5/">Násser Yousef Ali</a>.
 </h4>
 
 <p align="center">
@@ -35,7 +35,7 @@
 ![App Screenshot](https://res.cloudinary.com/raafacoelho/image/upload/v1626119075/portfolio_smagg2.png)
 <p align="center">
   <a href="https://rafaella-coelho.netlify.app" target="_blank">
-    <img alt="Demo on Netlify" src="https://res.cloudinary.com/raafacoelho/image/upload/v1626120194/portfolionetlify_tm1myd.png">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/raafacoelho/image/upload/v1626120324/demo_on_netlify_umjmch_kjmmmo.png">
   </a>
 </p>
 
