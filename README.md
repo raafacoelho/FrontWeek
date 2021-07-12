@@ -17,7 +17,7 @@
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/raafacoelho/frontweek">
   </a>
 
-  <img alt="GitHub" src="<img alt="GitHub" src="https://img.shields.io/github/license/raafacoelho/frontweek">">
+  <img alt="GitHub" src="<img alt="GitHub" src="https://img.shields.io/github/license/raafacoelho/frontweek">
 </p>
 
 <h4 align="center">
