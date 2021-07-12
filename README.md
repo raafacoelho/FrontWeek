@@ -34,8 +34,8 @@
 
 ![App Screenshot](https://res.cloudinary.com/raafacoelho/image/upload/v1626119075/portfolio_smagg2.png)
 <p align="center">
-  <a href="https://portfolio.netlify.app" target="_blank">
-    <img alt="Demo on Netlify" src="">
+  <a href="https://rafaella-coelho.netlify.app" target="_blank">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/raafacoelho/image/upload/v1626120194/portfolionetlify_tm1myd.png">
   </a>
 </p>
 
