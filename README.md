@@ -5,22 +5,22 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/raafacoelho/frontweek.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/raafacoelho">
 
   <a href="https://www.codacy.com/app/raafacoelho/frontweek?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rafaellacoelho/frontweek&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/4997e01df18f4441aae384fc60aa4daa.svg">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/raafacoelho/frontweek.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/raafacoelho">
   <a href="https://github.com/raafacoelho/frontweek/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/raafacoelho/frontweek.svg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/raafacoelho">
   </a>
 
   <a href="https://github.com/lukemorales/bancointer/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/raafacoelho/frontweek.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/raafacoelho">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/raafacoelho/frontweek.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/raafacoelho">
 </p>
 
 <h4 align="center">
